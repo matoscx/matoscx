@@ -4,7 +4,7 @@
 
 <div>
 
-<img align="right" width="350" src="https://media.tenor.com/5ry-200hErMAAAAd/kirby-kirby-dance.gif"/>
+
 
 <h2> / about me / </h2>
 
