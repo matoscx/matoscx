@@ -60,18 +60,6 @@ https://matoscx.github.io/Dealer-RentCar/
 </a>
 </p>
 
-<h2> / github stats / </h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=matoscx&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matoscx&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</p>
-
 <h2> / connect with me / </h2>
 
 💼 LinkedIn <br> <a href="https://www.linkedin.com/in/carol-stephany-matos/">
