@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to my Github ⭐️👋🏻</h1>
+<h1 align="center">Welcome to my Github 👋🏻</h1>
 
 <h3 align="center">
-💻 Computer Science Graduate | Tech Lover🩵 | Software Developer ✨
+💻 Computer Science | Tech Lover 🩵 | Software Developer ✨
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <ul>
 <li>🎓 Computer Science Graduate</li>
-<li>💻 Interested in <b>Software Development</b> and <b>Web Development</b></li>
+<li>💻 Interested in <b>Data Science </b> and <b>Software Development</b></li>
 <li>🌱 Always learning new technologies and improving my programming skills</li>
 <li>🚀 Passionate about building useful and functional projects</li>
 <li>📚 Experience working with multiple programming languages and databases</li>
