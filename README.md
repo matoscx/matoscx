@@ -1,15 +1,15 @@
-<h1 align="center">🌸 Hi 👋, I'm Carol Matos 🌸</h1>
+<h1 align="center">🌸 Hi 👋, I'm Carol Matos</h1>
 
 <h3 align="center">
-💻 Computer Science Graduate | 🌸 Tech Lover | 🚀 Aspiring Software Developer
+💻 Computer Science Graduate | Software Developer | Tech Lover 🌸
 </h3>
 
 <p align="center">
-<img src="https://media.tenor.com/5ry-200hErMAAAAd/kirby-kirby-dance.gif" width="130">
+<img src="https://media.tenor.com/5ry-200hErMAAAAd/kirby-kirby-dance.gif" width="140">
 </p>
 
 <p align="center">
-✨ Welcome to my GitHub profile ✨
+✨ Passionate about technology, software development and continuous learning ✨
 </p>
 
 <hr>
@@ -17,30 +17,38 @@
 <h2>🌷 About Me</h2>
 
 <ul>
-<li>🎓 Computer Science Graduate</li>
-<li>💡 I enjoy learning about technology</li>
-<li>🧠 Interested in Web Development and Databases</li>
-<li>🌱 Currently improving my programming skills</li>
-<li>✨ I like building simple and useful projects</li>
+<li>🎓 <b>Computer Science Graduate</b></li>
+<li>💻 Interested in <b>Software Development</b> and <b>Web Technologies</b></li>
+<li>🧠 I enjoy solving problems with programming</li>
+<li>🌱 Always learning new technologies</li>
+<li>✨ I like building simple, functional and useful projects</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Technologies & Tools</h2>
+<h2>🧰 Tech Stack</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,js,mysql,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
 </p>
 
 <hr>
 
-<h2>🍰 Most Used Languages</h2>
+<h2>📊 Programming Languages</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matoscx&layout=compact&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matoscx&layout=compact&theme=rose_pine&hide_border=true">
 
 </p>
 
@@ -48,39 +56,44 @@
 
 <h2>🚗 Featured Project</h2>
 
+<h3>RentCar Express</h3>
+
 <p>
-<b>RentCar Express</b><br>
-Car rental system developed as a software engineering project.
+Car rental system developed as a <b>Software Engineering project</b>.
 </p>
 
 <p>
-🌐 Live Demo:<br>
-<a href="https://matoscx.github.io/Dealer-RentCar/">https://matoscx.github.io/Dealer-RentCar/</a>
+🌐 Live Demo <br>
+<a href="https://matoscx.github.io/Dealer-RentCar/">
+https://matoscx.github.io/Dealer-RentCar/
+</a>
 </p>
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matoscx&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=matoscx&show_icons=true&theme=rose_pine&hide_border=true">
 
 </p>
 
 <hr>
 
-<h2>🌐 Connect with me</h2>
+<h2>🌐 Connect With Me</h2>
 
 <p>
-💼 LinkedIn:<br>
-<a href="https://www.linkedin.com/in/carol-stephany-matos/">linkedin.com/in/carol-stephany-matos</a>
+💼 LinkedIn <br>
+<a href="https://www.linkedin.com/in/carol-stephany-matos/">
+linkedin.com/in/carol-stephany-matos
+</a>
 </p>
 
 <hr>
 
 <p align="center">
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAd/kirby-hi.gif" width="110">
+<img src="https://media.tenor.com/0AVbKGY_MxMAAAAd/kirby-hi.gif" width="120">
 </p>
 
 <p align="center">
