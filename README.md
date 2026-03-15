@@ -1,10 +1,19 @@
-<h1 align="center">Hi, I'm Carol Matos 👋</h1>
+<h1 align="center">🌸 Hi, I'm Carol Matos 🌸</h1>
+
+<h3 align="center">
+💻 Computer Science Graduate | Kirby Lover | Software Developer
+</h3>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/35/44/33/354433250e9f08ac409d7639c33814af.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/35/44/33/354433250e9f08ac409d7639c33814af.gif" width="260"/>
+</p>
+
+<p align="center">
+⭐ Welcome to my GitHub profile ⭐
 </p>
 
 <div>
+
 
 
 
