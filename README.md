@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github 👋🏻</h1>
 
 <h3 align="center">
-💻 Computer Science | Tech Lover 🩵 | Software Developer ✨
+💻 Computer Science | Tech Lover 💙| Software Developer ✨
 </h3>
 
 <p align="center">
