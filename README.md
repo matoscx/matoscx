@@ -23,26 +23,22 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div style="background-color: #FFF9E6; padding: 25px; border-radius: 20px; box-shadow: inset 0 0 10px rgba(0,0,0,0.02); margin: 20px 0;" align="center">
+<div align="center">
 
-<h4 style="color: #665522; margin-top: 0;"><b>🔮 Languages</b></h4>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <div style="display: inline-block; border: 1px solid #FFEAA7; border-radius: 12px; padding: 12px 20px; margin: 8px;">
+    <span style="color: #665522; font-weight: bold; margin-right: 10px; vertical-align: middle;">🔮 Languages:</span>
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css" style="vertical-align: middle;" height="30"/>
+  </div>
 
-<br/><br/>
-<hr style="border: 0; border-top: 1px dashed #E6D5A3; width: 60%;"/>
-<br/>
+  <div style="display: inline-block; border: 1px solid #FFEAA7; border-radius: 12px; padding: 12px 20px; margin: 8px;">
+    <span style="color: #665522; font-weight: bold; margin-right: 10px; vertical-align: middle;">📊 Databases:</span>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb" style="vertical-align: middle;" height="30"/>
+  </div>
 
-<h4 style="color: #665522;"><b>📊 Databases</b></h4>
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb" />
-
-<br/><br/>
-<hr style="border: 0; border-top: 1px dashed #E6D5A3; width: 60%;"/>
-<br/>
-
-<h4 style="color: #665522;"><b>⚙️ Tools</b></h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+  <div style="display: inline-block; border: 1px solid #FFEAA7; border-radius: 12px; padding: 12px 20px; margin: 8px;">
+    <span style="color: #665522; font-weight: bold; margin-right: 10px; vertical-align: middle;">⚙️ Tools:</span>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" style="vertical-align: middle;" height="30"/>
+  </div>
 
 ---
 
