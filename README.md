@@ -57,11 +57,9 @@ A futuristic computer vision application built with **Python**, **OpenCV**, and 
 
 ## 🤝 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝖶𝗂𝗍h 𝖬𝖾
 <p align="center">
-<div align="left">
   <a href="https://linkedin.com/in/carol-stephany-matos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
   </a>
-</div>
 </p>
 <br>
 
