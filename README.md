@@ -48,8 +48,8 @@
 
 <h2> / featured project / </h2>
 
-<b>🚗 RentCar Express</b>
-
+<b>AppPintar </b>
+👉 **[Ver Reel del proyecto funcionando en Instagram](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==)**
 <p>
 Car rental system developed as a Software Engineering project.
 </p>
