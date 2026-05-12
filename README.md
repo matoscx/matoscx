@@ -50,16 +50,6 @@
 
 <b>AppPintar </b>
 👉 **[Ver Reel del proyecto funcionando en Instagram](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==)**
-<p>
-Car rental system developed as a Software Engineering project.
-</p>
-
-<p>
-🌐 Live Demo<br>
-<a href=>
-https://matoscx.github.io/Dealer-RentCar/index.html
-</a>
-</p>
 
 <h2> / connect with me / </h2>
 
