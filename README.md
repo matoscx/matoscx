@@ -31,7 +31,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h4><b>📊 Databases</b></h4>
-      <img src="https://skillicons.dev/icons?i=mysql,mssqlserver,mariadb" />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb" />
     </td>
     <td width="33%" align="center" valign="top">
       <h4><b>⚙️ Tools</b></h4>
