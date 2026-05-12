@@ -47,9 +47,9 @@
 ### 🎨 Air Canvas: Hand-Tracking Drawing App
 A futuristic computer vision application built with **Python**, **OpenCV**, and **MediaPipe** that translates real-time hand gestures into digital art using a standard webcam.
 
-* ☝️ **Draw Mode:** Continuous tracking using index finger coordinates.
-* ✌️ **Color Selector:** Dynamic palette switching with a built-in state cooldown.
-* 🖐️ **Clear Canvas:** Instant frame reset using gesture multi-point counting.
+  ☝️ **Draw Mode:** Continuous tracking using index finger coordinates.
+  ✌️ **Color Selector:** Dynamic palette switching with a built-in state cooldown.
+  🖐️ **Clear Canvas:** Instant frame reset using gesture multi-point counting.
 
 📺 **[Video App✨](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==)**
 
