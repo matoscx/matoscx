@@ -21,22 +21,26 @@
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack & Tools
 
-#### 🔮 Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+<div style="background-color: #FFF9E6; padding: 25px; border-radius: 20px; box-shadow: inset 0 0 10px rgba(0,0,0,0.02); margin: 20px 0;" align="center">
 
----
+<h4 style="color: #665522; margin-top: 0;"><b>🔮 Languages</b></h4>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
-#### 📊 Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb&theme=dark" />
+<br/><br/>
+<hr style="border: 0; border-top: 1px dashed #E6D5A3; width: 60%;"/>
+<br/>
 
----
+<h4 style="color: #665522;"><b>📊 Databases</b></h4>
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb" />
 
-#### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br/><br/>
+<hr style="border: 0; border-top: 1px dashed #E6D5A3; width: 60%;"/>
+<br/>
+
+<h4 style="color: #665522;"><b>⚙️ Tools</b></h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -55,7 +59,7 @@ A futuristic computer vision application built with **Python**, **OpenCV**, and 
 
 ---
 
-## 🤝 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝖶𝗂𝗍𝗁 𝖬𝖾
+## 🤝 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝖶𝗂𝗍ʰ 𝖬𝖾
 
 <div align="left">
   <a href="https://linkedin.com/in/carol-stephany-matos" target="_blank">
