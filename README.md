@@ -21,24 +21,24 @@
 
 ---
 
-## 🛠️ 𝖳𝖾𝖼𝗁 𝖲𝗍𝖺𝖼𝗄 & 𝖳𝗈𝗈𝗅𝗌
+<div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4><b>🔮 Languages</b></h4>
-      <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4><b>📊 Databases</b></h4>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4><b>⚙️ Tools</b></h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack & Tools
+
+#### 🔮 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+
+---
+
+#### 📊 Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver,mariadb&theme=dark" />
+
+---
+
+#### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
