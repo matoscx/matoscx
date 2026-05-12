@@ -8,10 +8,6 @@
   <img src="https://i.pinimg.com/originals/35/44/33/354433250e9f08ac409d7639c33814af.gif" width="220" style="border-radius: 15px;"/>
 </p>
 
-「 *Turning logic into visual magic, one line of code at a time.* 」
-
-🌱 [Instagram](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==) • 💼 [LinkedIn](https://linkedin.com/in/carol-stephany-matos)
-
 ━━━━━━━━━━━━━━━ ⋆ ━━━━━━━━━━━━━━━
 </div>
 
@@ -64,9 +60,6 @@ A futuristic computer vision application built with **Python**, **OpenCV**, and 
 <div align="left">
   <a href="https://linkedin.com/in/carol-stephany-matos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
-  </a>
-  <a href="https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
   </a>
 </div>
 
