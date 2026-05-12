@@ -70,5 +70,5 @@ A futuristic computer vision application built with **Python**, **OpenCV**, and 
 </p>
 
 <p align="center">
-  🌸 <i>Thanks for stopping by! Keep creating.</i> 🌸
+  🌸 <i>Carol S. Matos</i> 🌸
 </p>
