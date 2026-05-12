@@ -48,7 +48,7 @@
 
 <h2> / featured project / </h2>
 
-<b>AppPintar </b>
+<b>AppPintar MediaPipe + OpenCV</b>
 👉 **[Ver Reel del proyecto funcionando en Instagram](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==)**
 
 <h2> / connect with me / </h2>
