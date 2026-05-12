@@ -51,7 +51,7 @@ A futuristic computer vision application built with **Python**, **OpenCV**, and 
 * ✌️ **Color Selector:** Dynamic palette switching with a built-in state cooldown.
 * 🖐️ **Clear Canvas:** Instant frame reset using gesture multi-point counting.
 
-> 📺 **[Watch the Viral Reel on Instagram ✨](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==)**
+> 📺 **[✨](https://www.instagram.com/reel/DYM3FLKvcqL/?igsh=MTEwcDc3NGkybWZmdA==)**
 
 ---
 
