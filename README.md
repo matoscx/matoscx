@@ -65,7 +65,7 @@ https://matoscx.github.io/Dealer-RentCar/index.html
 
 <h2> / connect with me / </h2>
 
-💼 LinkedIn <br> <a href="https://matoscx.github.io/Dealer-RentCar/">
+💼 LinkedIn <br> <a href="https://matoscx.github.io/Dealer-RentCar/index.html">
 linkedin.com/in/carol-stephany-matos </a>
 
 </div>
