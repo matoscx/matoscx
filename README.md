@@ -16,7 +16,7 @@
 ✨ **About Me**
 * 🎓 **Computer Science** student focused on building innovative solutions.
 * 🧠 Deeply passionate about **Data Science**, **Computer Vision**, and **Software Engineering**.
-* 🚀 Driven by curiosity—always exploring new documentation, frameworks, and AI capabilities.
+* 🚀 Driven by curiosity always exploring new documentation, frameworks, and AI capabilities.
 * 📚 Solid background bridging scientific logic with clean, efficient implementation.
 
 ---
