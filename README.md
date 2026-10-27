@@ -14,7 +14,7 @@
 ## ✉️ 𝖦𝖾𝗍 𝖳𝗈 𝖪𝗇𝗈𝗐 𝖬𝖾
 
 ✨ **About Me**
-* 🎓 **Computer Science** student focused on building innovative solutions.
+* 🎓 **Computer Science** focused on building innovative solutions.
 * 🧠 Deeply passionate about **Data Science**, **Computer Vision**, and **Software Engineering**.
 * 🚀 Driven by curiosity always exploring new documentation, frameworks, and AI capabilities.
 
